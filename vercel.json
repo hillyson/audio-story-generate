@@ -12,5 +12,5 @@
         "dest": "/story2/podcast.html"
       }
     ],
-    "public": "./" 
+    "public": true
   }
