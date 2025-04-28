@@ -1,0 +1,16 @@
+{
+    "routes": [
+      {
+        "src": "/",
+        "dest": "/story2/podcast.html",
+        "headers": {
+          "Content-Type": "text/html"
+        }
+      },
+      {
+        "src": "/(.*)",
+        "dest": "/story2/podcast.html"
+      }
+    ],
+    "public": "./" 
+  }
